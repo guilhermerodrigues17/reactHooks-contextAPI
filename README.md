@@ -1,3 +1,11 @@
+PT-BR
+Este é apenas um repositório de estudos, com foco em toda a lógica por tras dos principais hooks do React e da ContextAPI. Sinta-se a vontade para clonar e dar uma olhada no código!
+Você vai encontrar diversos métodos de trabalhar com os hooks mais importantes da tecnologia, usando um exemplo simples que é um contador.
+
+ENG
+This is just a study repository, focusing on all the logic behind the main React hooks and ContextAPI. Feel free to clone and take a look at the code!
+You will find several methods of working with the most important hooks in this technology, using a simple example, which is an accountant.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
